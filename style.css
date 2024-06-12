@@ -77,5 +77,21 @@ body {
 }
 
 .container__descrição {
-    
+    padding: 2em;
+}
+
+.descrição__titulo {
+    font-weight: 700;
+    font-size: 48px;
+    color: var(--branco-principal);
+    margin-bottom: o.1em;
+}
+
+.descrição__texto{
+    color: var(--cinza-secundario);
+}
+
+.secundario__botao {
+    display: inline-block;
+    margin-top: 1em;
 }
